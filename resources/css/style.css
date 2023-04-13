@@ -1,0 +1,58 @@
+html{
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+header{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+div{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  margin: 20px 0px;
+  width: 100%;
+  text-decoration: underline;
+}
+
+body video{
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+}
+
+body h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+body h4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+
+#tent,
+#phone{
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+}
+
+p{
+  color: grey;
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 10px;
+}
